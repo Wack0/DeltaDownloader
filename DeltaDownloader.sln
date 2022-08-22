@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaDownloader", "DeltaDownloader.csproj", "{3AAF9EAF-4C60-4D90-8138-1FFC74770B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AAF9EAF-4C60-4D90-8138-1FFC74770B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAF9EAF-4C60-4D90-8138-1FFC74770B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAF9EAF-4C60-4D90-8138-1FFC74770B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAF9EAF-4C60-4D90-8138-1FFC74770B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E88900-2630-409B-B218-E52FC1699D70}
+	EndGlobalSection
+EndGlobal
